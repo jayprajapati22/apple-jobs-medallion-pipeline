@@ -1,4 +1,4 @@
-# apple-jobs-medallion-pipeline
+# Apple Jobs Medallion Pipeline
 
 
 This project demonstrates a full Data Engineering pipeline using the Medallion Architecture (Bronze, Silver, Gold) with PySpark. It uses job listing data from Apple Inc. to build an analytical-ready dataset.
